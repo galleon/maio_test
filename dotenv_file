@@ -1,0 +1,6 @@
+MEROSS_EMAIL=your_email@example.com
+MEROSS_PASSWORD=your_password
+MQTT_BROKER_URL=mqtt.broker.url
+MQTT_BROKER_PORT=mqtt_broker_port
+MQTT_TOPIC=your/topic
+
